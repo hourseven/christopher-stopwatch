@@ -1,0 +1,10 @@
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-stopwatch-application\christopher-stopwatch-application\bin\Debug\christopher-stopwatch-application.exe.config
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-stopwatch-application\christopher-stopwatch-application\bin\Debug\christopher-stopwatch-application.exe
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-stopwatch-application\christopher-stopwatch-application\bin\Debug\christopher-stopwatch-application.pdb
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-stopwatch-application\christopher-stopwatch-application\bin\Debug\christopher-stopwatch-application.xml
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-stopwatch-application\christopher-stopwatch-application\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-stopwatch-application\christopher-stopwatch-application\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-stopwatch-application\christopher-stopwatch-application\obj\Debug\christopher-stopwatch-application.vbproj.GenerateResource.Cache
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-stopwatch-application\christopher-stopwatch-application\obj\Debug\christopher-stopwatch-application.exe
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-stopwatch-application\christopher-stopwatch-application\obj\Debug\christopher-stopwatch-application.xml
+C:\Users\burel566\Documents\Visual Studio 2012\Projects\christopher-stopwatch-application\christopher-stopwatch-application\obj\Debug\christopher-stopwatch-application.pdb
